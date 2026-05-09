@@ -189,7 +189,6 @@ My expertise spans across:
 - 🤝 **Team Player** — Effective communicator with strong collaborative skills
 - 💻 **Full-Stack Capability** — Comfortable across frontend, backend, and mobile
 - 📈 **Driven by Impact** — Focus on building solutions that create real business value
-- ✨ **Code Quality Advocate** — Write clean, documented, maintainable code
 
 ---
 
@@ -252,7 +251,7 @@ My expertise spans across:
 
 | Language | Proficiency |
 |----------|-------------|
-| **English** | Fluent (Professional & Technical) |
+| **English** | Intermediate |
 | **Hindi** | Native |
 | **Gujarati** | Native |
 
@@ -263,16 +262,12 @@ My expertise spans across:
 ### Currently Exploring
 - 🔍 Advanced Odoo module development techniques
 - 🎯 Flutter state management (Provider, Riverpod)
-- 🏗️ Microservices architecture
-- ☁️ Cloud deployment (AWS, Google Cloud)
 - 🔐 Security best practices in web & mobile apps
 
 ### Always Learning
 - Latest web standards and technologies
 - Design patterns and software architecture
 - Performance optimization techniques
-- DevOps and CI/CD pipelines
-
 ---
 
 ## 📈 Development by the Numbers
@@ -282,9 +277,6 @@ My expertise spans across:
 | Metric | Value |
 |--------|-------|
 | **Languages Used** | 7+ (Python, JavaScript, Dart, XML, HTML, CSS, SQL) |
-| **Lines of Code** | 10,000+ (Production) |
-| **Projects Delivered** | 5+ (Professional) |
-| **Technologies** | 15+ Core Technologies |
 | **GitHub Commits** | 500+ |
 | **Open Source Contributions** | Growing |
 
@@ -299,7 +291,6 @@ My expertise spans across:
 **My Principles:**
 - ✅ **Clarity over Cleverness** — Readable code is maintainable code
 - ✅ **DRY (Don't Repeat Yourself)** — Find abstractions and eliminate duplication
-- ✅ **SOLID Principles** — Write flexible, scalable, and maintainable code
 - ✅ **Test-Driven Development** — Automated tests are your safety net
 - ✅ **Documentation First** — Code comments explain the "why", not the "what"
 - ✅ **Performance Matters** — Optimize where it counts
