@@ -65,13 +65,6 @@
 
 ---
 
-### 📂 Active Development
-- 🛠️ **Recruitment Module** - Deep inheritance and custom business logic for Odoo.
-- 🔗 **Price Inquiry Lead Gen** - Bridging web frontends with ERP backend systems.
-- ⚡ **Antigravity IDE** - Enhancing developer workflows in Ubuntu environments.
-
----
-
 ### 📬 Let's Connect
 <div align="left">
   <a href="mailto:jaysoni1103@gmail.com">
@@ -83,7 +76,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USER_ID&label=Profile%20Views&color=blueviolet&style=flat-square" />
-</div>
